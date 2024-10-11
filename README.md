@@ -1,1 +1,2 @@
-# Twarzy
+# Rozpoznawanie mimiki twarzy
+
